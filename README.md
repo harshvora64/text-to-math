@@ -1,6 +1,7 @@
 # Text-to-Math Translation (Part B) - Inference
 
 This repository contains models and scripts for running inference on text-to-math translation problems using Seq2Seq and BERT-based models.
+Dataset at: https://www.kaggle.com/datasets/skadoosh64/dataset/data
 
 ---
 
